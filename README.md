@@ -1,4 +1,4 @@
-# Portfolio Native
+# Portfolio/CV Native
 
 - Used HTML CSS $ JS
 
